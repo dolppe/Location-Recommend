@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ktttt</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="day3">#주말_인기</string>
+    <string name="day2">#평일_인기</string>
+    <string name="day4">#평일_주말_밸런스</string>
+    <string name="day0">#평일_약간_인기</string>
+    <string name="day1">#주말_약간_인기</string>
+    <string name="time4">#저녁_인기</string>
+    <string name="time3">#밝은_시간대_인기</string>
+    <string name="time2">#점심_인기</string>
+    <string name="time1">#아침_인기</string>
+    <string name="time0">#시간대_밸런스</string>
+    <string name="age0">#장노년_인기</string>
+    <string name="age1">#중년_인기</string>
+    <string name="age2">#아이_많은</string>
+    <string name="age4">#젊은층_인기</string>
+    <string name="age3">#전연령_밸런스</string>
+    <string name="gender2">#여성_인기</string>
+    <string name="gender1">#남성_인기</string>
+    <string name="gender4">#남성_인기</string>
+    <string name="gender0">#성별_밸런스</string>
+    <string name="gender3">#남성_약간_인기</string>
+
+
+
+</resources>
