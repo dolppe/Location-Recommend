@@ -21,7 +21,7 @@ data_src는 python을 이용한 데이터 분석 코드가 존재합니다.
 ktttt는 해당 데이터를 이용하여 약속장소를 추천해주는 어플리케이션 관련 코드입니다.
 
 ```sh
-asset-generator
+Location-Recommend
  ┣ data
  ┃ ┣ 생활이동 데이터 폴더                         
  ┃ ┃ ┗ 생활이동 데이터 엑셀                       -> 원본 데이터
